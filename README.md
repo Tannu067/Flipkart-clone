@@ -131,15 +131,17 @@ Copyright © 2025 Tannu Kumari
 ## Screenshots
 
 ### Home Page
-![Home Page Screenshot](client/public/screenshots/homepage.png)
+### Home Page
+![Home Page Screenshot](homepage.png)
+
 
 ### 🛒 Cart Page
-![Cart Page](client/public/screenshots/cart.png)
+![Cart Page](cart.png)
 
 ### 🔚 Footer Section
-![Footer Section](client/public/screenshots/footer.png)
+![Footer Section](footer.png)
 
 ### 🔐 Sign-in Page
-![Sign-in Page](client/public/screenshots/signin.png)
+![Sign-in Page](signin.png)
 
 
