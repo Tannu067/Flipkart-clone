@@ -62,7 +62,7 @@ Ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Tannu067/Flickart-Flipkart-Clone.git
+git clone https://github.com/Tannu067/Flickart-Clone.git
 cd Flickart-Flipkart-Clone
 
 
